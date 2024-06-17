@@ -1,2 +1,1 @@
-gogs/gogs
-nacos/nacos-server
+xuxueli/xxl-job-admin

@@ -1,7 +1,2 @@
-nginx
-redis
-minio
-xxl-job-admin:2.3.0
-rabbitmq
-gogs
-nacos
+gogs/gogs
+nacos/nacos-server

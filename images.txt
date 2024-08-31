@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.4.0
+rabbitmq:3.13-management

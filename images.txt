@@ -1,1 +1,1 @@
-rabbitmq:3.13-management
+mysql:8.0.30
